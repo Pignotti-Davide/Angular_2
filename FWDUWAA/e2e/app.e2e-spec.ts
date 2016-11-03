@@ -1,10 +1,10 @@
-import { MyAppPage } from './app.po';
+import { FWDUWAAPage } from './app.po';
 
-describe('my-app App', function() {
-  let page: MyAppPage;
+describe('fwduwaa App', function() {
+  let page: FWDUWAAPage;
 
   beforeEach(() => {
-    page = new MyAppPage();
+    page = new FWDUWAAPage();
   });
 
   it('should display message saying app works', () => {

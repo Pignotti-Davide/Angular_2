@@ -3,7 +3,7 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
-describe('App: MyApp', () => {
+describe('App: FWDUWAA', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [
