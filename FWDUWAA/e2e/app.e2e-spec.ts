@@ -1,10 +1,10 @@
-import { FWDUWAAPage } from './app.po';
+import { Auth0TestPage } from './app.po';
 
-describe('fwduwaa App', function() {
-  let page: FWDUWAAPage;
+describe('auth0-test App', function() {
+  let page: Auth0TestPage;
 
   beforeEach(() => {
-    page = new FWDUWAAPage();
+    page = new Auth0TestPage();
   });
 
   it('should display message saying app works', () => {

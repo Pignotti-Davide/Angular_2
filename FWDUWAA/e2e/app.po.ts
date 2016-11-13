@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class FWDUWAAPage {
+export class Auth0TestPage {
   navigateTo() {
     return browser.get('/');
   }
